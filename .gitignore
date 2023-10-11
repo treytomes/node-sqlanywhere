@@ -1,0 +1,7 @@
+# This is compiled from index.ts.
+test/*.js
+
+build/
+dist/
+.env
+node_modules
